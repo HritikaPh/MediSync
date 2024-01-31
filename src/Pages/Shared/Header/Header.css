@@ -1,0 +1,21 @@
+.navbar {
+    padding: 0;
+}
+.navbar a {
+    font-size: 18px;
+    font-weight: 700;
+    color: gray;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+.navbar a:hover {
+    color: #ddd;
+    background-color: #333;
+}
+.user-icon {
+    width: 36px;
+    height: 36px;
+    border: 1px solid gray;
+    padding: 1px;
+    border-radius: 50%;
+}
